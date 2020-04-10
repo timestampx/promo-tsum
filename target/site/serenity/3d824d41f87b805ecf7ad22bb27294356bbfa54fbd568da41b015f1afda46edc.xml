@@ -1,0 +1,90 @@
+<acceptance-test-run title="Sign in with valid password" name="signInWithValidPassword" steps="13" successful="13" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="47679" timestamp="2020-04-10T14:19:53.040+03:00">
+  <user-story id="tests.SignInWithValidPassword_Test" name="Sign in with valid password  test" path="tests"/>
+  <tags>
+    <tag name="Sign in with valid password  test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="12503">
+    <screenshots>
+      <screenshot image="365d20c2d6abedef12ee60729e887206_NONE.png"/>
+    </screenshots>
+    <description>Open page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="683">
+    <screenshots>
+      <screenshot image="06f8611d8ab688f1f0cae40a18c0830a_NONE.png"/>
+      <screenshot image="1e871084fc4b435ccbaf41e32077632f_NONE.png"/>
+    </screenshots>
+    <description>Sign in page should be opened</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="669">
+    <screenshots>
+      <screenshot image="06f8611d8ab688f1f0cae40a18c0830a_NONE.png"/>
+    </screenshots>
+    <description>Username field should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="798">
+    <screenshots>
+      <screenshot image="1e871084fc4b435ccbaf41e32077632f_NONE.png"/>
+      <screenshot image="59ad58554fb54839c6e302164fcb3707_NONE.png"/>
+    </screenshots>
+    <description>Set username field: &lt;span class=&apos;step-parameter&apos;&gt;petr.mail.1970@mail.ru&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="665">
+    <screenshots>
+      <screenshot image="77b9219c456c19fc53f333dfdcf33415_NONE.png"/>
+    </screenshots>
+    <description>Password field should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="821">
+    <screenshots>
+      <screenshot image="59ad58554fb54839c6e302164fcb3707_NONE.png"/>
+      <screenshot image="e8aa020b931c4d492dfbe1418da0aa57_NONE.png"/>
+    </screenshots>
+    <description>Set password field: &lt;span class=&apos;step-parameter&apos;&gt;autotest&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="713">
+    <screenshots>
+      <screenshot image="de3a2d10b633a1d512598b814d06514f_NONE.png"/>
+    </screenshots>
+    <description>Sign in button should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="707">
+    <screenshots>
+      <screenshot image="e8aa020b931c4d492dfbe1418da0aa57_NONE.png"/>
+      <screenshot image="de3a2d10b633a1d512598b814d06514f_NONE.png"/>
+    </screenshots>
+    <description>Sign in button should be enabled</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="832">
+    <screenshots>
+      <screenshot image="36de0f371ead6ffc99bff6d803fba8b8_NONE.png"/>
+    </screenshots>
+    <description>Click sign in button</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2841">
+    <screenshots>
+      <screenshot image="b781304185e2064c3754f414f41aec79_NONE.png"/>
+      <screenshot image="bacf153cbea1c7b882160d1fef469a88_NONE.png"/>
+    </screenshots>
+    <description>Spinner sign in button should be present</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1204">
+    <screenshots>
+      <screenshot image="cd4cf6a4821308cb1dd18e0c7e8a7989_NONE.png"/>
+      <screenshot image="1f0c17e7dacdd2cdf35056b57c0afd0b_NONE.png"/>
+    </screenshots>
+    <description>Main page should be opened</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="689">
+    <screenshots>
+      <screenshot image="6603203d6448cbd69be0271034a53479_NONE.png"/>
+    </screenshots>
+    <description>Header should be present</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="757">
+    <screenshots>
+      <screenshot image="6603203d6448cbd69be0271034a53479_NONE.png"/>
+    </screenshots>
+    <description>Email should be present: &lt;span class=&apos;step-parameter&apos;&gt;petr.mail.1970@mail.ru&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

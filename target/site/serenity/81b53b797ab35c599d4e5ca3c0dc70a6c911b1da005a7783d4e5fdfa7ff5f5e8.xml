@@ -1,0 +1,77 @@
+<acceptance-test-run title="Sign up with exist user" name="signUpWithExistUser" steps="11" successful="11" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="40297" timestamp="2020-04-10T14:20:42.263+03:00">
+  <user-story id="tests.SignUpWithExistUser_Test" name="Sign up with exist user  test" path="tests"/>
+  <tags>
+    <tag name="Sign up with exist user  test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="16045">
+    <screenshots>
+      <screenshot image="b18d8db48bb45cfd0cfdff1431022888_NONE.png"/>
+    </screenshots>
+    <description>Open page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="724">
+    <screenshots>
+      <screenshot image="57fa026ea66d5b13a1088e715334464a_NONE.png"/>
+      <screenshot image="bc14ef773611c80bd75570ccd61bd5f8_NONE.png"/>
+    </screenshots>
+    <description>Sign up page should be opened</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="700">
+    <screenshots>
+      <screenshot image="57fa026ea66d5b13a1088e715334464a_NONE.png"/>
+    </screenshots>
+    <description>Username field should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="854">
+    <screenshots>
+      <screenshot image="bc14ef773611c80bd75570ccd61bd5f8_NONE.png"/>
+      <screenshot image="5f0cc505a9a7af36ad3b333dc866a20e_NONE.png"/>
+    </screenshots>
+    <description>Set username field: &lt;span class=&apos;step-parameter&apos;&gt;myautotests@mail.ru&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="696">
+    <screenshots>
+      <screenshot image="65e77ca37f196840ef38787d493954fa_NONE.png"/>
+    </screenshots>
+    <description>Password field should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="861">
+    <screenshots>
+      <screenshot image="5f0cc505a9a7af36ad3b333dc866a20e_NONE.png"/>
+      <screenshot image="a3d5d06b48786f6e857c3055746398df_NONE.png"/>
+    </screenshots>
+    <description>Set password field: &lt;span class=&apos;step-parameter&apos;&gt;youautotest&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="697">
+    <screenshots>
+      <screenshot image="7dc2debd9e28423211d1994d6c1c80ff_NONE.png"/>
+    </screenshots>
+    <description>Sign up button should be visible</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="732">
+    <screenshots>
+      <screenshot image="a3d5d06b48786f6e857c3055746398df_NONE.png"/>
+      <screenshot image="7dc2debd9e28423211d1994d6c1c80ff_NONE.png"/>
+    </screenshots>
+    <description>Sign up button should be enabled</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="828">
+    <screenshots>
+      <screenshot image="e7c476eb9a94355920089f10423aa573_NONE.png"/>
+    </screenshots>
+    <description>Click sign up button</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="743">
+    <screenshots>
+      <screenshot image="3f926ef6a45daa51083cfdaf9a71f91a_NONE.png"/>
+      <screenshot image="0225fc24be0c5cdabd8f7dbaaa967bc7_NONE.png"/>
+    </screenshots>
+    <description>Notice should be present</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="707">
+    <screenshots>
+      <screenshot image="34722c4d7dde6607a243deb518624301_NONE.png"/>
+    </screenshots>
+    <description>Notice old user should be present</description>
+  </test-step>
+</acceptance-test-run>

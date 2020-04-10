@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="tests.SignUpWithExistUser_Test" skipped="0" tests="1" time="40.3" timestamp="2020-04-101 02:20:42"><testcase classname="tests.SignUpWithExistUser_Test" name="Sign up with exist user"/></testsuite>
