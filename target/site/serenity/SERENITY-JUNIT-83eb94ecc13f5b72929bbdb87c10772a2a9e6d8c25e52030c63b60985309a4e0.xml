@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="tests.SignUpWithInvalidEmail_Test" skipped="0" tests="1" time="40.65" timestamp="2020-04-101 02:21:24"><testcase classname="tests.SignUpWithInvalidEmail_Test" name="Sign up with invalid email"/></testsuite>

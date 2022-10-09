@@ -1,5 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Open forget password link  test","Open forget password link","SUCCESS","2020-04-10T14:19:27.717+03:00","0.0","23.04"
-"Sign in with valid password  test","Sign in with valid password","SUCCESS","2020-04-10T14:19:53.040+03:00","0.0","47.68"
-"Sign up with exist user  test","Sign up with exist user","SUCCESS","2020-04-10T14:20:42.263+03:00","0.0","40.3"
-"Sign up with invalid email  test","Sign up with invalid email","SUCCESS","2020-04-10T14:21:24.033+03:00","0.0","40.65"
