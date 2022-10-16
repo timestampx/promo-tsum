@@ -1,2 +1,3 @@
 # promo
-Автотесты на Java, Gradle, Serenity(framework), jUnit
+UI Autotests
+Java, Gradle, Serenity(framework), jUnit
